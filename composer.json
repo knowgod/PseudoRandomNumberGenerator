@@ -1,0 +1,22 @@
+{
+  "name": "knowgod/prng",
+  "description": "Pseudo random number generator algorithms",
+  "type": "library",
+  "version": "0.1.0",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "authors": [
+    {
+      "name": "Arkadij Kuzhel",
+      "email": "arkuzhel@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Knowgod\\PRNG\\": "src/"
+    }
+  },
+  "minimum-stability": "beta"
+}
