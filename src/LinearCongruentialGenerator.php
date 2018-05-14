@@ -6,7 +6,6 @@ namespace Knowgod\PRNG;
  * These are implementations of 'Linear congruential generator' algorithm for BSD and MS systems.
  *
  * @see  http://rosettacode.org/wiki/Linear_congruential_generator#PHP
- * @todo Move library to separate Composer package
  */
 class LinearCongruentialGenerator
 {
